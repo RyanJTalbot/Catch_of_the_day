@@ -2,7 +2,7 @@ import Rebase from 're-base';
 import firebase from 'firebase';
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: 'AIzaSyCjVf8d_KIDuL-5IiuUAyheGktYt1q3V7M',
+  // apiKey: 'removed for security reasons',
   authDomain: 'catch-of-the-day-ryanjt.firebaseapp.com',
   databaseURL: 'https://catch-of-the-day-ryanjt.firebaseio.com/'
 });
