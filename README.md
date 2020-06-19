@@ -1,1 +1,4 @@
-Course length approx. 5hr 13 min.
+Start with npm start
+
+Catch 0f the day site made with React
+with Authroization and Login via firebase
